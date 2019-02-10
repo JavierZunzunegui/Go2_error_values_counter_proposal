@@ -1,0 +1,1 @@
+# This repo is for use as a counter-proposal to [Go2 error values](https://github.com/golang/go/issues/29934) proposal only.
