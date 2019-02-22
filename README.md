@@ -5,6 +5,8 @@ This code is not otherwise meant to be imported or used.
 
 Please review the original proposal, this assumes knowledge of it and of the discussions around it, from which this takes many ideas.
 
+The debate is in https://github.com/golang/go/issues/30350.
+
 # Packages
 
 - `xerrors/`: the proposed code changes
