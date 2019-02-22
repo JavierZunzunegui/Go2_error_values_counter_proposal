@@ -60,6 +60,8 @@ It mainly exists to remove some otherwise repetitive logic from `Serializer` and
 Methods using the default serializer (the popular "{err1}: {err2}" format) for use in %s/%v formatting. 
 The Detailed forms additionally print frame information if available.
 
+Note this produce very efficient results, particularly regarding memory allocation. [See benchmark results](https://github.com/JavierZunzunegui/Go2_error_values_counter_proposal/blob/master/xerrors/benchmark.md).
+
 ### Wrapping, NewWrapping and FrameError
 
 Embedding `Wrapping` in errors provide a very easy way for custom errors to implement `Wrapper`. 
