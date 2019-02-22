@@ -9,8 +9,12 @@ The debate is in https://github.com/golang/go/issues/30350.
 
 # Packages
 
-- `xerrors/`: the proposed code changes
-- `xerrors/xserialiserexamples/`: contains some examples used to demonstrate how these changes may be used, but is not meant to be merged.
+- `xerrors/`: 
+[![GoDoc](https://godoc.org/github.com/JavierZunzunegui/Go2_error_values_counter_proposal/xerrors?status.svg)](https://godoc.org/github.com/JavierZunzunegui/Go2_error_values_counter_proposal/xerrors)
+the proposed code changes
+- `xerrors/xserialiserexamples/`: 
+[![GoDoc](https://godoc.org/github.com/JavierZunzunegui/Go2_error_values_counter_proposal/xerrors/xserialiserexamples?status.svg)](https://godoc.org/github.com/JavierZunzunegui/Go2_error_values_counter_proposal/xerrors/xserialiserexamples)
+contains some examples used to demonstrate how these changes may be used, but is not meant to be merged.
 
 # Overview
 
