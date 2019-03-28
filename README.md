@@ -1,3 +1,5 @@
+# This proposal is now outdated. See https://github.com/JavierZunzunegui/xerrors
+
 **This repo is a counter-proposal to the [Go2 error values](https://github.com/golang/go/issues/29934) proposal only.**
 That proposal is referred throughout as the 'original proposal'.
 
